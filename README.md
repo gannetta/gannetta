@@ -4,7 +4,9 @@
 
 My full-time job is to show devs how to constantly reach their own **"Next Level".** 🚀
 
-![https://i.imgur.com/eU04jJ0.png](https://i.imgur.com/eU04jJ0.png)
+<p align="center">
+  <img src="https://imgur.com/3vUCM77" alt="Giuliano Annetta's Info"/>
+</p>
 
 ## About me
 
