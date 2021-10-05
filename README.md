@@ -8,8 +8,6 @@ My full-time job is to show devs how to constantly reach their own **"Next Level
   <img src="https://i.imgur.com/eU04jJ0.png" alt="Giuliano Annetta's Info"/>
 </p>
 
-![https://i.imgur.com/eU04jJ0.png](https://i.imgur.com/eU04jJ0.png)
-
 ## About me
 
 🚀 Rocketseat Booster.
