@@ -2,15 +2,7 @@
 
 ## Development goes **way beyond coding.**
 
-My full-time job is to show devs how to constantly reach their own **"Next Level".** 🚀
-
-<p align="center">
-  <img src="https://i.imgur.com/eU04jJ0.png" alt="Giuliano Annetta's Info"/>
-</p>
-
 ## About me
-
-🚀 Rocketseat Booster.
 
 🎓 Bachelor of Business Administration, International Business and Development at Delta State University.
 
